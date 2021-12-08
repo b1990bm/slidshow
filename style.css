@@ -6,9 +6,9 @@
 	position: relative;
 }
 
-.slide {
-	display: none;
+.slide{
 	position: relative;
+	display: none;
 }
 
 .slide.active {
